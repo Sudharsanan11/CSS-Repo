@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    border: double black 3px;
+    text-align: center;
+}
+table{
+    margin-left: 50px;
+}
+#date{
+    width: 30px;
+    font-style: italic;
+}
+#year{
+    width: 50px;
+}
