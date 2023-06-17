@@ -1,0 +1,21 @@
+body{
+    background-image: url("Food2.jpg");
+    background-size: cover;
+    color: white;
+}
+h3{
+    font-size: small;
+    margin-left: 3%;
+    margin-top: 15%;
+    margin-bottom: -4%;
+}
+h1{
+    font-size: 75px;
+    margin-left: 3%;
+}
+#reserve{
+    margin-left: 3%;
+    border: 1px solid white;
+    padding: 10px 25px;
+    font-size: smaller;
+}

@@ -1,0 +1,38 @@
+body{
+    background-image: url("Garden.jpg");
+    background-size: cover;
+    color: white;
+}
+h6{
+    text-align: right;
+    margin-right: 3%;
+    margin-top: 15%;
+    font-size: larger;
+    margin-bottom: 0.5%;
+}
+h1{
+    text-align: right;
+    margin-right: 3%;
+    font-size: 60px;
+    margin-bottom: 0.5%;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Inspiration', cursive;
+font-family: 'Lobster', cursive;
+}
+p{
+    text-align: right;
+    margin-right: 3%;
+    font-size: larger;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Inspiration', cursive;
+font-family: 'Lobster', cursive;
+}
+#get{
+    border: 1px solid rgba(25, 151, 25, 0.674);
+    margin-left: 85%;
+    background-color: rgba(25, 151, 25, 0.674);
+    width: fit-content;
+    padding: 10px 15px;
+}

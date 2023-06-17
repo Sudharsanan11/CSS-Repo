@@ -1,0 +1,45 @@
+.nature{
+    background-image: url("green-leaf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white; 
+  
+
+}
+h5{
+    padding-left: 35%;
+    padding-top: 13%;
+    /* font-size:large; */
+    margin-bottom: -0.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(237, 239, 241, 0.6);
+}
+h1{
+    padding-left: 35%;
+    font-size: 45px;
+    margin-top: 1%;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+}
+#project{
+    border: 1px solid white;
+    margin-left: 35%;
+    font-size: 90;
+    padding: 5px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Inspiration', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+#us{
+    border: 1px solid white;
+    margin-left: 2%;
+    font-size: 90;
+    padding: 5px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Inspiration', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+}
