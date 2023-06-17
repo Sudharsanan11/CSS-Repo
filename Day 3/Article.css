@@ -1,0 +1,20 @@
+#search{
+    align-items: center;
+}
+#one{
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: justify;
+}
+span{
+    color: blue;
+}
+#heading{
+    font-size: 30px;
+}
+#main{
+    font-size: 40px;
+}
