@@ -1,0 +1,11 @@
+.card{
+    width: 100%;
+    color: #0d2436;
+    color: #152c3e;
+}
+.card .card-body .card-title{
+    color: #ffffff;
+}
+.card .card-body .card-text{
+    color: #5a7184;
+}

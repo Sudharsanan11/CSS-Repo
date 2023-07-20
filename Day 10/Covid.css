@@ -1,0 +1,61 @@
+.container{
+    margin: 0 auto;
+    font-family: 'Roboto';
+}
+.slide_1 .card .card-body button{
+    background-color: #0967d2;
+    border: 1px solid #0967d2;
+    border-radius: 8px;
+    padding: 6px;
+}
+.slide_1 .card{
+    border: none;
+}
+.slide_2 .card{
+    border: none;
+    background-color: #0967d219;
+    padding: 25px;
+
+}
+.slide_2 .card .img_2{
+    height: 70px;
+    width: 100px;
+    
+}
+.slide_3 .img_3{
+    height: 100px;
+    width: 100px;
+    margin-left: 12px;
+    margin-top: 10px;
+    padding: 5px;
+}
+.slide_3 .card{
+    width: 140px;
+    color: white;
+    padding-top: 14px;
+}
+.slide_3 .slide_g{
+    border: none;
+    background-color: #3ebd93;
+}
+.slide_3 .slide_p{
+    border: none;
+    background-color: #e668a7;
+}
+.slide_3 .slide_v{
+    border: none;
+    background-color: #a368fc;
+}
+.slide_3 .card-title{
+    margin-top: -20px;
+    margin-left: 5px;
+}
+.slide_4 .card{
+    background-color: #e12d3919;
+}
+.slide_4 .img_4{
+    height: 80px;
+    width: 60px;
+    margin-left: 60px;
+    margin-top: 18px;
+}
