@@ -1,0 +1,76 @@
+body{
+    margin-left: 10%;
+}
+.main{
+    display: flex;
+    /* float: inline; */
+    font-size: larger;
+
+}
+.about{
+    
+    margin-left: 4%;
+    margin-top: 3%;
+}
+.box1{
+    background-color: rgb(30, 48, 80);
+    width: 20%;
+    height: 20%;
+    padding: 1%;
+}
+.img{
+    position: absolute;
+    margin-left: -10%;
+    z-index: -1;
+    left: 65%;
+}
+.main2{
+    padding: 1px;
+    text-align: center;
+    color: white;
+    padding: 3%;
+    margin-top:10px;
+    display: flex;
+}
+.fa-circle{
+    margin-top:10% ;
+    margin-bottom: -1%;
+    font-size: 50px;
+}
+.fa-book{
+    position: relative;
+    top: -26px;
+    font-size: 30px;
+}
+
+.box2{
+    background-color: rgb(30, 48, 80);
+    width: 20%;
+    height: 20%;
+    padding: 1%; 
+      
+}
+.box3{
+    background-color: rgb(30, 48, 80);
+    width: 20%;
+    height: 20%;
+    padding: 1%;
+
+}
+.fa-layer-group{
+    position: relative;
+    top: -22px;
+    font-size: 30px;
+
+}
+.plan{
+    margin-top: 31px;
+}
+.fa-bullseye{
+    position: relative;
+    top: -20px;
+    font-size: 35px;
+}
+.design{
+    margin-top: 31px;
+}
