@@ -1,0 +1,13 @@
+.Mains{
+    color: #616c7c;
+}
+.Mains h1{
+    color: #1f2933;
+}
+.Mains .card{
+    text-align: center;
+    border: 1px solid transparent;
+    box-shadow: 0px 0px 20px 1px ;
+    color: #7b8794;
+    border-radius: none;
+}

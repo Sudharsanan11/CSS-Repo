@@ -1,0 +1,11 @@
+.read{
+    color: #ff9f00;
+}
+.card .card-body .card-title{
+    color: #183b56;
+}
+.card{
+    
+    box-shadow: 0px 0px 10px 1px;
+   border:none;
+}

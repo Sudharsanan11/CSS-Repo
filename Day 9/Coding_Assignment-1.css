@@ -1,0 +1,22 @@
+/* @media screen and (min-width:768px){
+    .img_4{
+        visibility: hidden;
+    }
+    .img_5{
+        visibility: hidden;
+    }
+    .img_6{
+        visibility: hidden;
+    }
+} 
+@media screen and (max-width:767px){
+    .img_1{
+        visibility: hidden;
+    }
+    .img_2{
+        visibility: hidden;
+    }
+    .img_3{
+        visibility: hidden;
+    }
+}  */
