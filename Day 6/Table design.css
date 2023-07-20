@@ -1,0 +1,51 @@
+body{
+    background-color: yellowgreen;
+    background-size: cover;
+
+}
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    
+    margin-top: 8%;
+}
+#table{
+    border: 1px solid yellowgreen;
+    border-radius: 1;
+}
+#line{
+    border-bottom:2px solid yellowgreen;
+}
+th,td{
+    padding: 35px;
+    
+}
+tr:nth-child(1){
+    background-color:yellow;
+}
+tr:nth-child(2){
+    background-color: white;
+}
+tr:nth-child(3){
+    background-color: white;
+}
+tr:nth-child(4){
+    background-color: white;
+}
+tr:nth-child(5){
+    background-color: white;
+}
+/* table th:first-child{
+    border-radius: 10px 0 0 0px;
+} */
+th:first-child{
+    border-top-left-radius: 10px;
+    
+}
+th:last-child{
+    border-top-right-radius: 10px;
+}
+tr:nth-child(){
+    border-bottom-left-radius: 10px;
+}
+

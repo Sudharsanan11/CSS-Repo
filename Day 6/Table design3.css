@@ -1,0 +1,18 @@
+table,th,td{
+    border-collapse: separate;
+    border: 2px solid black;
+     border-spacing: 10px; 
+    text-align: center;
+}
+#table{
+    border: none;
+}
+#first{
+    background-color: green;
+}
+#last{
+    background-color: yellow;
+}
+#age{
+    background-color: blueviolet;
+}
