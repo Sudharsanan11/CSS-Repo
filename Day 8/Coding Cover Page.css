@@ -1,0 +1,21 @@
+.main{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png');
+    background-size: cover;
+    height: 90vh;
+    width: 25%;
+    margin: 1%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+.div2{
+    border: 5px solid #48ee59;
+    background-color: #00000080;
+    height: 60%;
+    width: 80%;
+    position: relative;
+    top: 130px;
+    left: 35px;
+    font-size: 48px;
+    padding: 20px;
+    font-family: 'Bree Serif';
+}

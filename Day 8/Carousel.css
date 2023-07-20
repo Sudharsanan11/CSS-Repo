@@ -1,0 +1,32 @@
+.main{
+    border: 1px solid transparent;
+    height: 60vh;
+    width: 70%;
+    margin: 0 auto;
+}
+.main1{
+    height: 17%;
+    margin-top: 3%;
+}
+.d-block{
+    height: 440px;
+}
+.main2{
+    display: flex;
+    margin-left: 15%;
+}
+.card{
+    margin-top: 11%;
+    border-radius:none;
+}
+.carousel .carousel-indicators button{
+    background-color: white;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+}
+.button{
+    background-color: blue;
+    border: blue;
+    border-radius: 5px;
+}

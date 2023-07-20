@@ -1,0 +1,202 @@
+.first_slide{
+    background-image: url('https://img.freepik.com/free-photo/vegetables-fruits-arrangement_23-2148949677.jpg?w=1060&t=st=1687758954~exp=1687759554~hmac=9f8ab8d5d826cfc0785e68e540b37f826fb4ec591196505f9ae9c458a3285f7f');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    margin-top: 5%;
+    margin: 1px;
+    padding: 1px;
+}
+.first_slide .sub_head{
+    margin-left: 27%;
+    margin-top: 16%;
+    color: lightgreen;
+    font-size: 30px;
+}
+.first_slide h1{
+    margin-left: 16%;
+font-family: 'Dancing Script', cursive;
+color: orange;
+margin-top: -40px;
+font-size: 100px;
+}
+.first_slide p{
+    margin-left: 16%;
+    color: white;
+    font-size: 20px;
+}
+.first_slide button{
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    margin-left: 20%;
+    padding-left:20px ;
+    padding-right: 20px;
+}
+.sec_slide{
+    background-color: rgb(23, 183, 23);
+    color: white;
+    padding: 1px;
+}
+.sec_slide h1{
+    text-align: center;
+    margin-top: 1%;
+}
+.sec_slide p{
+    text-align: center;
+}
+.card{
+    text-align: center;
+    width: 70%;
+    height: 70%;
+    margin-left: 50px;
+}
+.card .card-body .fa-solid{
+    font-size: 30px;
+}
+.th_slide .th_con{
+    margin-top: 15%;
+}
+.th_slide .th_con h5{
+    margin-left: 42%;
+    color: greenyellow;
+}
+.th_slide .th_con h1{
+    font-family: 'Dancing Script', cursive;
+    margin-left: 13%;
+    font-size: 70px;
+    margin-top: -27px;
+    color: orange;
+}
+.th_slide .th_con p{
+    margin-left: 13%;
+}
+.th_slide .th_con button{
+    background-color: rgb(237, 122, 13);
+    border: 1px solid rgb(237, 122, 13);
+    padding: 10px;
+    padding-left: 30px;
+    padding-right:30px;
+    margin-left: 13%;
+}
+.sec_slide p{
+    margin-bottom:3%;
+}
+.fth_slide{
+    background-color: rgb(68, 196, 68);
+    text-align: center;
+    color: white;
+    padding: 1px;
+}
+.fth_slide h2{
+    margin-top: 2%;
+}
+.fth_slide p{
+    margin-bottom: 6%;
+}
+.fith_slide .row .card .fith_img1{
+    height: 140px;
+    width: 252px;
+    margin-top: -2px;
+}
+.fith_slide .row .card .fith_img2{
+    height: 140px;
+    width: 252px;
+    margin-top: -2px;
+}
+.fith_slide .row .card .fith_img3{
+    height: 140px;
+    width: 252px;
+    margin-top: -2px;
+}
+.fith_slide .row .card .fith_img4{
+    height: 140px;
+    width: 252px;
+    margin-top: -2px;
+}
+.sith_slide{
+    margin-top: 10%;
+}
+.sith_slide .sith_con{
+    margin-top: 15%;
+}
+.sith_slide .sith_con h5{
+    margin-left: 40%;
+    color: lightgreen;
+}
+.sith_slide .sith_con h1{
+    margin-left: 13%;
+    font-size: 70px;
+    font-family: 'Dancing Script';
+    margin-top: -20px;
+    color: orange;
+}
+.sith_slide .sith_con p{
+    margin-left: 13% ;
+}
+.sith_slide .sith_con button{
+    margin-left: 13%;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:rgb(216, 144, 11);
+    
+}
+.seth_slide{
+    background-color: rgb(200, 230, 242);
+}
+.seth_slide .card{
+    margin-top: 5%;
+    margin-left: 11%;
+}
+.seth_slide .card .seth_img1{
+    height: 170px;
+    width: 170px;
+    border-radius: 100%;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.seth_slide .card .seth_img2{
+    height: 170px;
+    width: 170px;
+    border-radius: 100%;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.seth_slide .card .seth_img3{
+    height: 170px;
+    width: 170px;
+    border-radius: 100%;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.seth_slide .card .card-body .btn{
+    border: none;
+    background-color: white;
+    color: black;
+    border-bottom: 1px solid black;
+}
+.eith_slide .eith_con{
+    margin-top: 15%;
+    margin-left: 5%;
+    border:1px solid transparent;
+    width: 50%;
+}
+.eith_slide .eith_img .eith_img1{
+    height: 100vh;
+    width: 100%;
+} 
+.eith_slide h5{
+    color: lightgreen;
+}
+.eith_slide h1{
+    color: orange;
+    font-family: 'Dancing Script';
+    font-size: 70px;
+}
+.eith_slide button{
+    padding-left:25px;
+    padding-right: 25px;
+    background-color:rgb(235, 138, 20) ;
+    border: 1px solid rgb(235, 138, 20) ;
+    color: white;
+}

@@ -1,0 +1,25 @@
+h3{
+    color:#5752ab;
+    font-family: 'Bree Serif';
+}
+p{
+    color:#323f4b;
+    font-family: 'Roboto';
+}
+.card .card-body .colo{
+    color:#171f46;
+    background-color:#ffffff;
+    border: 1px solid#d7dfe9;
+}
+.card .card-body .colo1{
+    color:#ffffff;
+    background-color:#5752ab;
+    border: 1px solid#d7dfe9;
+}
+.card .card-body{
+    border: 1px solid white;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: -150px;
+}
