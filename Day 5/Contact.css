@@ -1,0 +1,72 @@
+#back_img{
+    background-image: url("Blue.jpg");
+    background-size: cover;
+    height: 87vh;
+    width: 70%;
+    padding-top: 0.5%;
+    margin-left: 15%;
+}
+#color{
+    background-color: rgba(18, 18, 77, 0.819);
+    border: 3px solid rgb(73, 173, 212);
+    height: 70vh;
+    width: 55%;
+    margin-left: 22%; 
+    margin-top: 5%; 
+    
+}
+input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    width: 78%;
+}
+h1,p{
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    padding: 0% 5%;
+}
+.name{
+    margin-top: 6%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+.mail{
+    margin-top: 6%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.message{
+    margin-top: 6%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+button{
+    margin-top: 6%;
+    margin-left: 43%;
+    padding: 7px 15px;
+    background-color: rgba(18, 18, 77, 0.819);
+    color: white;
+    border:1px solid white;
+    
+}
+.circle{
+    margin-left: 15%;
+}
+
+#search{
+    margin-left: 20%;
+    margin-top: -1%;
+    background-color: rgb(231, 231, 236);
+    width: 20%;
+}
+h1{
+    font-size: 40px;
+}
+#plus{
+    margin-left: 36%;
+}
+::placeholder{
+    color: blue;
+}
